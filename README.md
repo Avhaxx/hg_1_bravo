@@ -2,7 +2,11 @@
 
 # BRAVO
 
-Reinaldo Sanchez - Valencia (alfa)
-Antonio Lopez - Valencia (bravo)
-Antonieta Fermenar - (charlie)
-David Tarifa - Barquisimeto (delta)
+--Reinaldo Sanchez - Valencia (alfa)-- 
+
+--Antonio Lopez - Valencia (bravo)--  
+
+--Antonieta Fermenar - (charlie)-- 
+
+--David Tarifa - Barquisimeto (delta)-- 
+
